@@ -4,7 +4,7 @@
   VesselBench-800K: A Large-scale Perception Benchmark for Multimodal Vessel Detection, Counting, and Density Estimation
 </h1>
 
-[Danfeng Hong](https://scholar.google.com/citations?hl=en&user=n7gL0_IAAAAJ&view_op=list_works&sortby=pubdate), Chenyu Li, [Jocelyn Chanussot](https://scholar.google.com/citations?user=6owK2OQAAAAJ&hl=en)
+[Danfeng Hong](https://scholar.google.com/citations?hl=en&user=n7gL0_IAAAAJ&view_op=list_works&sortby=pubdate), [Chenyu Li](https://scholar.google.com/citations?user=ihdqDdsAAAAJ&hl=en&oi=sra), [Jocelyn Chanussot](https://scholar.google.com/citations?user=6owK2OQAAAAJ&hl=en)
  
 [https://arxiv.org/abs/2609.37003](https://arxiv.org/abs/2609.37003)
 </div>
