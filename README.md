@@ -1,7 +1,6 @@
 <img width="2016" height="755" alt="Vesselbench" src="https://github.com/user-attachments/assets/827ad136-5a10-4d1f-8d5e-33cd795bfd45" /><div align="center">
 
 <h1 align="center">
-  <img src="logo.png" alt="logo" width="40" />
   VesselBench-800K: A Large-scale Perception Benchmark for Multimodal Vessel Detection, Counting, and Density Estimation
 </h1>
 
