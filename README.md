@@ -1,4 +1,4 @@
-<img width="196" height="148" alt="下载" src="https://github.com/user-attachments/assets/fd731915-0a19-4a16-bb02-b642108f1169" /><img width="196" height="148" alt="image" src="https://github.com/user-attachments/assets/bf8b53eb-bd78-4bfc-a236-62d3ebd9f019" /><img width="2016" height="755" alt="Vesselbench" src="https://github.com/user-attachments/assets/827ad136-5a10-4d1f-8d5e-33cd795bfd45" /><div align="center">
+<img width="2016" height="755" alt="Vesselbench" src="https://github.com/user-attachments/assets/827ad136-5a10-4d1f-8d5e-33cd795bfd45" /><div align="center">
 
 <h1 align="center">
   VesselBench-800K: A Large-scale Perception Benchmark for Multimodal Vessel Detection, Counting, and Density Estimation
